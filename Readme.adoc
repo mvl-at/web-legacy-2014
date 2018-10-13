@@ -1,3 +1,11 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 = Musikverein Leopoldsdorf Legacy Website 2014
 
 This is the legacy website from 2014. It exists for archivement purposes only.
@@ -6,6 +14,7 @@ This is the legacy website from 2014. It exists for archivement purposes only.
 To run this website, just copy the sources into an apache instance.
 Furthermore a MySQL conform database is required, which has to be configured in `system/mysqlauth.php`.
 As this repository exists only for historical purposes a documentation for the database layout would be too much effort.
+
 CAUTION: Since this website is very old it has many security issues, so the deployment is strongly NOT recommended.
 
 == Picures
