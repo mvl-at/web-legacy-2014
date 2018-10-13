@@ -1,0 +1,21 @@
+#termine {
+  padding-left:10px;
+  padding-right:10px;
+  border-collapse:collapse;
+  border-style:solid;
+  border-color:#005bb5;
+}
+
+.zelle{
+  
+  border-style:solid;
+  border-color:#005bb5;
+  padding:5px;
+  text-align:middle;
+}
+
+#tabelle{
+  border-style:groove;
+  border-color:#005bb5;
+  
+}

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /mvl.at/cgi-bin/*
+Disallow: /mvl.at/www/system/*
+Disallow: /mvl.at/www/img/*
+Disallow: /mvl.at/www/bilder/*
+Disallow: /cgi-bin/*
+Disallow: /www/system/*
+Disallow: /www/img/*
+Disallow: /www/bilder/*

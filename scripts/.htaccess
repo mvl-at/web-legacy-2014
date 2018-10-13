@@ -1,0 +1,4 @@
+authtype Basic
+authname "Minecraft Skin changer login"
+authuserfile /home/10803/mvl.at/www/system/.htpasswd
+require valid-user
